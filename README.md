@@ -77,7 +77,5 @@ The Monkeypox outbreak has prompted discussions worldwide. By analyzing Twitter 
 This project highlights how data science and machine learning can be used to analyze real-time data, such as social media posts, to better understand and address public health issues.
 
 
-🌟 Get Involved!
-Explore the Notebook 🧑‍💻: Dive into the Jupyter notebook to see the complete analysis and code.
-Run the Code 🚀: You can run the project on your own machine and modify it to fit your needs.
-Contribute 🤝: If you have suggestions or improvements, feel free to contribute!
+
+Explore the full analysis and code in the Jupyter notebook, run it on your own machine 🚀, and feel free to contribute with any suggestions or improvements 🤝. Your input is always welcome to help enhance the project and make it even more impactful. Let’s collaborate and make a difference!
