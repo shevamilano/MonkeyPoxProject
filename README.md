@@ -1,5 +1,4 @@
-# MonkeyPoxProject
-MonkeyPoxProject 🐒
+# MonkeyPoxProject🐒
 
 Welcome to the MonkeyPoxProject! This project focuses on analyzing Twitter data related to the Monkeypox outbreak, applying machine learning techniques to process, analyze, and visualize the data. The goal is to extract valuable insights on public sentiment and discussions surrounding this health crisis, which has caught the attention of the world. 🌍
 
