@@ -54,30 +54,30 @@ The project used two machine learning models for sentiment classification: Logis
 
 GridSearchCV was used to fine-tune the Logistic Regression and Random Forest models. After optimization, the models performed even better:
 
-Logistic Regression:
+- Logistic Regression:
 
-Best Cross-Validation Score: 0.93
+  Best Cross-Validation Score: 0.93
 
-Best Parameters: {'C': 100, 'max_iter': 100, 'solver': 'liblinear'}
+  Best Parameters: {'C': 100, 'max_iter': 100, 'solver': 'liblinear'}
 
-Random Forest:
 
-Best Cross-Validation Score: 0.87
+- Random Forest:
 
-Best Parameters: {'n_estimators': 100, 'max_depth': None, 'min_samples_split': 10}
+  Best Cross-Validation Score: 0.87
 
-The tuned models showed a significant improvement in accuracy and consistency.
+  Best Parameters: {'n_estimators': 100, 'max_depth': None, 'min_samples_split': 10}
+
+  The tuned models showed a significant improvement in accuracy and consistency.
+
+
 
 📌 Why This Matters:
-
 The Monkeypox outbreak has prompted discussions worldwide. By analyzing Twitter data, we gain insights into how social media shapes public perception and how information spreads during a health crisis. The public sentiment detected through machine learning can help health organizations understand public concerns, correct misinformation, and improve communication strategies.
 
 This project highlights how data science and machine learning can be used to analyze real-time data, such as social media posts, to better understand and address public health issues.
 
+
 🌟 Get Involved!
-
 Explore the Notebook 🧑‍💻: Dive into the Jupyter notebook to see the complete analysis and code.
-
 Run the Code 🚀: You can run the project on your own machine and modify it to fit your needs.
-
 Contribute 🤝: If you have suggestions or improvements, feel free to contribute!
