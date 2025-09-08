@@ -17,45 +17,37 @@ Visualizations such as word clouds, bar charts, and confusion matrices were crea
 Model Evaluation 🧠:
 The performance of the models was evaluated using metrics such as accuracy, precision, recall, and F1-score. The final models were fine-tuned for better accuracy.
 
+
 📊 Key Results:
 1. Sentiment Analysis:
-
 The model was able to classify the sentiment of tweets into positive, negative, and neutral categories. Here’s a breakdown of the average tweet length and sentiment distribution:
 
-Sentiment	Mean Tweet Length	Std. Dev	Min Length	Max Length	Count
-Negative	185.30	95.89	33	788	884
-Neutral	122.88	77.75	10	807	4303
-Positive	179.62	82.54	20	427	600
 2. Model Performance:
 
 The project used two machine learning models for sentiment classification: Logistic Regression and Random Forest.
 
-Logistic Regression:
+- Logistic Regression:
 
-Accuracy: 88.01%
+  Accuracy: 88.01%
 
-Precision: 0.95 (negative), 0.88 (neutral), 0.86 (positive)
+  Precision: 0.95 (negative), 0.88 (neutral), 0.86 (positive)
 
-Recall: 0.70 (negative), 0.91 (neutral), 0.64 (positive)
+  Recall: 0.70 (negative), 0.91 (neutral), 0.64 (positive)
 
-F1-Score: 0.80 (negative), 0.79 (neutral), 0.85 (positive)
-
-Random Forest:
-
-Accuracy: 89.89%
-
-Precision: 0.94 (negative), 0.90 (neutral), 0.91 (positive)
-
-Recall: 0.94 (negative), 0.94 (neutral), 0.80 (positive)
-
-F1-Score: 0.94 (negative), 0.91 (neutral), 0.85 (positive)
-
-Here are the confusion matrices for both models:
-
-Logistic Regression:
+  F1-Score: 0.80 (negative), 0.79 (neutral), 0.85 (positive)
 
 
-Random Forest:
+- Random Forest:
+
+  Accuracy: 89.89%
+
+  Precision: 0.94 (negative), 0.90 (neutral), 0.91 (positive)
+
+  Recall: 0.94 (negative), 0.94 (neutral), 0.80 (positive)
+
+  F1-Score: 0.94 (negative), 0.91 (neutral), 0.85 (positive)
+
+
 
 
 3. Hyperparameter Tuning:
